@@ -1,6 +1,6 @@
 # Foro Hub
 
-es un proyecto en Java que utiliza el framework Spring, creado como parte de un desafío de programación. El objetivo principal es desarrollar una API REST que permita realizar todas las operaciones CRUD (Crear, Leer, Actualizar y Eliminar) de los tópicos.
+Es un proyecto en Java que utiliza el framework Spring, creado como parte de un desafío de programación. El objetivo principal es desarrollar una API REST que permita realizar todas las operaciones CRUD (Crear, Leer, Actualizar y Eliminar) de los tópicos.
 
 Para este desafío, se emplearon las siguientes herramientas:
 
